@@ -1,8 +1,9 @@
 <svelte:head>
-  <title>Home page</title>
+  <title>About page</title>
   <meta name ='description' content='Game trailer aggregation - sveltekit practice'>
 </svelte:head>
 
 <section>
-  <h1>Hello from Home</h1>
+  <h1>About</h1>
+  <p></p>
 </section>

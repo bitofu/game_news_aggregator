@@ -1,0 +1,182 @@
+{
+  "kind": "youtube#searchListResponse",
+  "etag": "jrAv8EnNO_LzShFBWr-bDIYKJog",
+  "nextPageToken": "CAUQAA",
+  "regionCode": "CA",
+  "pageInfo": {
+    "totalResults": 1000000,
+    "resultsPerPage": 5
+  },
+  "items": [
+    {
+      "kind": "youtube#searchResult",
+      "etag": "jh--1klFz3OkSw03CFO-73ZEFH0",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "yDDeQD35y8A"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T21:13:56Z",
+        "channelId": "UCKy1dAqELo0zrOtPkf0eTMw",
+        "title": "Where Winds Meet - Official Extended Gameplay Reveal Trailer | gamescom 2022",
+        "description": "Check out Everstone Games' open-world martial arts game, Where Winds Meet. Set in the Ten Kingdoms, where the entire ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/yDDeQD35y8A/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/yDDeQD35y8A/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/yDDeQD35y8A/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "IGN",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T21:13:56Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "iZFwCYf18Riq372cxN34Q_iV7_M",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "tnsOrbljnK0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-15T17:07:30Z",
+        "channelId": "UC9YydG57epLqxA9cTzZXSeQ",
+        "title": "Modern Warfare II Multiplayer &amp; Warzone 2.0 | Call of Duty: NEXT Reveal Trailer",
+        "description": "The new era of #CallOfDuty arrives with #ModernWarfare2 and #Warzone2 Pre-Order #MWII Now: https://bit.ly/MWIIPREORDER ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/tnsOrbljnK0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/tnsOrbljnK0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/tnsOrbljnK0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Call of Duty",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-15T17:07:30Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "9C2aT0mYJob-61cQmbXXzBYt9Mo",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "oceLRiqQsko"
+      },
+      "snippet": {
+        "publishedAt": "2022-08-23T18:20:11Z",
+        "channelId": "UCbu2SsF-Or3Rsn3NxqODImw",
+        "title": "The Lords of the Fallen Official Announcement Trailer | gamescom ONL 2022",
+        "description": "Check out the announcement trailer for The Lords of the Fallen, which was showcased during gamescom Opening Night Live ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/oceLRiqQsko/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/oceLRiqQsko/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/oceLRiqQsko/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "GameSpot",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-08-23T18:20:11Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "yrmnsM-DZTENhknFs1SDOgWjPSQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "x55lAlFtXmw"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-10T19:57:02Z",
+        "channelId": "UC0KU8F9jJqSLS11LRXvFWmg",
+        "title": "Assassin&#39;s Creed Mirage: Cinematic World Premiere | #UbiForward",
+        "description": "Watch the cinematic world premiere announce trailer of Assassin's Creed® Mirage. In the ninth century CE, Baghdad is at its ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/x55lAlFtXmw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/x55lAlFtXmw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/x55lAlFtXmw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Ubisoft",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-10T19:57:02Z"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "WA32w46BkaOgH4tP0DTpIk9_snQ",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "hfJ4Km46A-0"
+      },
+      "snippet": {
+        "publishedAt": "2022-09-13T22:22:10Z",
+        "channelId": "UC-2Y8dQb0S6DtpxNgAKoJKA",
+        "title": "God of War Ragnarök - State of Play Sep 2022 Story Trailer | PS5 &amp; PS4 Games",
+        "description": "https://www.playstation.com/en-us/games/god-of-war-ragnarok/ Set out on an epic and unflinching journey as Kratos and Atreus ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/hfJ4Km46A-0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "PlayStation",
+        "liveBroadcastContent": "none",
+        "publishTime": "2022-09-13T22:22:10Z"
+      }
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+:root {
+  --font-family: 'Lato', sans-serif;
+  --font-mono: Menlo, Consolas, Monaco, Liberation Mono, Lucida Console,
+    monospace;
+  --font-size: 22px;
+  --color: #555;
+  --header-color: #333;
+  --brand-color: rgb(212, 161, 95);
+  --duration-100: 100ms;
+  --duration-300: 300ms;
+  --base-line-height: 1.6;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-family);
+  font-size: var(--font-size);
+  color: var(--color);
+  line-height: var(--base-line-height);
+  overflow-x: hidden;
+  text-rendering: optimizeLegibility;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin-top: 1.5rem;
+  font-weight: bold;
+  color: var(--header-color);
+}
+
+h1 {
+  font-size: 2.5rem;
+}
+h2 {
+  font-size: 2rem;
+}
+h3 {
+  font-size: 1.6rem;
+}
+h4 {
+  font-size: 1.3rem;
+}
+h5 {
+  font-size: 1rem;
+}
+h6 {
+  font-size: 0.8rem;
+}
+
+p {
+  margin-bottom: 1rem;
+}
+
+a {
+  color: var(--color);
+  text-decoration: underline;
+  /* transition-duration: var(--duration-100); */
+}
+
+a:hover {
+  color: var(--brand-color);
+}
