@@ -9,7 +9,6 @@
     message = 'Sorry! If you think this URL is broken please let us know'
     title = 'Page not found';
   }
-  console.log($page)
 </script>
 
 <svelte:head>
